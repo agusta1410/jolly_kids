@@ -6,7 +6,9 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <!--[if IE 6]><link rel="stylesheet" type="text/css" href="css/ie6.css"><![endif]-->
 </head>
-<body><?php include "header.php";?>
+<body><?php 
+$page="blog";
+include "header.php";?>
 
 <div class="content">
   <div id="blog">

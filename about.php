@@ -7,7 +7,9 @@
 <!--[if IE 6]><link rel="stylesheet" type="text/css" href="css/ie6.css"><![endif]-->
 </head>
 <body>
-<?php include "header.php";?>
+<?php 
+$page="about";
+include "header.php";?>
 <div class="content">
   <div>
     <div> <img src="images/professionals.jpg" alt=""> </div>
