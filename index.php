@@ -7,18 +7,8 @@
 <!--[if IE 6]><link rel="stylesheet" type="text/css" href="css/ie6.css"><![endif]-->
 </head>
 <body>
-<div id="header">
-  <div> <a href="index.html"><img src="images/logo1.gif" alt=""></a>
-    <ul>
-      <li class="current"><a href="index.html">Home</a></li>
-      <li><a href="about.html">About us</a></li>
-      <li><a href="services.html">Login</a></li>
-      <li><a href="services.html">Sign Up</a></li>
-      <li><a href="blog.html">Registration Form</a></li>
-      <li><a href="contact.html">Contact us</a></li>
-    </ul>
-  </div>
-</div>
+<?php include "header.php";?>
+
 <div id="content">
   <div>
     <div>
