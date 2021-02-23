@@ -11,7 +11,7 @@ echo "Registration Page";
 </head>
 <body>
 <?php 
-$page = "sign";
+$page = "registration";
 include "header.php";
 ?>
 <?php 
