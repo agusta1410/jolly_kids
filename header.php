@@ -6,7 +6,7 @@
       <li><a href="about.php">About us</a></li>
       <li><a href="login.php">Login</a></li>
       <li><a href="sign.php">Sign Up</a></li>
-      <li><a href="registration.html">Registration Form</a></li>
+      <li><a href="registration.php">Registration Form</a></li>
       <li><a href="contact.php">Contact us</a></li>
     </ul>
   </div>
